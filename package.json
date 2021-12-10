@@ -1,7 +1,6 @@
 {
   "name": "moveit-next",
   "version": "0.1.0",
-  "homepage":"ReactJS-01-NLW-04/",
   "private": true,
   "scripts": {
     "dev": "next dev",
