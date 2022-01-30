@@ -39,7 +39,7 @@ font-size: 93.75%; /* SE READAPTA DIMINUI 1 PX DE UM TODO */
 body{
     background: var(--background);
     color:var(--text);
-    
+    background-color: red;
 
 }
 
