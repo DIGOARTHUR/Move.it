@@ -1,3 +1,4 @@
+/*VARIÁVEIS DE CORES*/
 :root{
     --white:#fff;
     --background:#f2f3f5;
@@ -28,7 +29,7 @@ font-size: 93.75%; /* SE READAPTA DIMINUI 1 PX DE UM TODO */
 }
 
 
-
+/*RESETA ESPAÇAMENTOS INTERNOS E EXTERNOS DE TAGS, E OS DEIXAM COM TAMANHO REALMENTE COMO DEFINIDO NO ESCOPO DE CADA UM */
 *{
    margin:0;
     padding: 0;
@@ -39,20 +40,21 @@ font-size: 93.75%; /* SE READAPTA DIMINUI 1 PX DE UM TODO */
 body{
     background: var(--background);
     color:var(--text);
-    background-color: red;
+    background-color: var(--white);
 
 }
 
+/*DEFINIÇÃO DE FONT DAS TAGS DEFINIDAS ABAIXO*/
 body,input,textarea,button{
 
     font: 400 1rem "inter", sans-serif ;
 
 }
-
+/*ATRIBUIR SIMBOLO DE CLIQUE PADRÃO A TAG BUTTON*/
 button{
     cursor: pointer;
 }
-
+/*RETIRAR ESTILIZAÇÃO DE "LINKADO"*/
 a{
     color:inherit;
     text-decoration: none;

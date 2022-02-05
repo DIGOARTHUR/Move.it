@@ -1,22 +1,22 @@
 .experienceBar{
-    display: flex;
+    display: flex; /*Possibilita a flexibilidade de posicionamento das tags filhas*/
     align-items: center;
   
     }
     
     .experienceBar span{
-       font-size: 1rem;
+       font-size: 1rem; /*tamanho da fonte*/
   
     }
     
     .experienceBar >div{
     
         flex: 1;   /* largura maxima do container*/
-        height: 4px;
-        border-radius: 4px;
+        height: 4px; /*altura*/
+        border-radius: 4px; /*arrendondamento das bordas*/
         background: var(--gray-line);
-        margin: 0 1.5rem ;
-        position: relative;
+        margin: 0 1.5rem ; /*espaçamento margem externa a tag*/
+        position: relative; /*define a referência de posicionemto das tags filhas em relação a esta tag aqui (PAI)  +info: https://www.youtube.com/watch?v=f8H-wstL0nU&t=413s*/   
      }
     
      .experienceBar >div >div{
@@ -28,7 +28,7 @@
     
      span.currentExperience{
         
-         position:absolute;
-         top:5px;
-         transform: translateX(-50%);
+         position:absolute; /*define o posicionamento em relação ao body, mas se caso a tag Pai estiver como relative, o ponto de referência se tornará ele. */
+         top:5px; /*mudança de posicionamento em relação ao Top */
+         transform: translateX(-50%); /*translada pelo o eixo X em relação ao próprio tamanho da tag*/
      }
