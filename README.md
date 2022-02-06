@@ -1,5 +1,6 @@
 <!-- VISUALIZAR NO VSCODE  CTRL + K  V -->
 
+<!-- BADGES https://www.youtube.com/watch?v=cRoBt6AZgjc-->
 # Move.it Pomodoro - NLW#04
 
 
