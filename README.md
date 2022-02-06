@@ -1,6 +1,8 @@
 <!-- VISUALIZAR NO VSCODE  CTRL + K  V -->
 
-<!-- BADGES https://www.youtube.com/watch?v=cRoBt6AZgjc-->
+<!-- BADGES https://www.youtube.com/watch?v=cRoBt6AZgjc
+https://dev.to/envoy_/150-badges-for-github-pnk
+-->
 # Move.it Pomodoro - NLW#04
 
 
