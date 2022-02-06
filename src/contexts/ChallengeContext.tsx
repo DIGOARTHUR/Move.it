@@ -1,12 +1,6 @@
 import { createContext, useState, ReactNode, useEffect } from "react";
 import challenges from '../../challenges.json';
 
-
-
-
-
-
-
 interface Challenge {
     type: 'body' | 'eye';
     description: string;
@@ -45,19 +39,19 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
 
 
 
-    //EXPERIENCEBAR
+    //EXPERIENCE BAR
     const [level, setlevel] = useState(1);
-    const [currentExperience, setCurrentExperience] = useState(32);
+    const [currentExperience, setCurrentExperience] = useState(0);
     const experienceToNextLevel = Math.pow((level + 1) * 4, 2);
 
     function levelUp() {
         setlevel(level + 1)
     }
 
-    //COMPLETEDEDCHALLENGES
+    //COMPLETEDED CHALLENGES
     const [numberChallengesCompleted, setnumberChallengesCompleted] = useState(0);
 
-    //CHALLENGEBOX
+    //CHALLENGE BOX
     const [activeChallenge, setActiveChallenge] = useState(null);
 
     function resetChallenge() {
@@ -67,19 +61,19 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
 
     }
 
-    function completedChallenge(){
-        setnumberChallengesCompleted(numberChallengesCompleted+1);
+    function completedChallenge() {
+        setnumberChallengesCompleted(numberChallengesCompleted + 1);
         resetCountdown();
-       var  newExperience=activeChallenge.amount+currentExperience;
-       if (newExperience>experienceToNextLevel){
-        setCurrentExperience(newExperience-experienceToNextLevel);
-        levelUp() ;
-        resetChallenge();
+        var newExperience = activeChallenge.amount + currentExperience;
+        if (newExperience > experienceToNextLevel) {
+            setCurrentExperience(newExperience - experienceToNextLevel);
+            levelUp();
+            resetChallenge();
 
-       }else{
-        setCurrentExperience(activeChallenge.amount+currentExperience);
-        resetChallenge();
-       }
+        } else {
+            setCurrentExperience(activeChallenge.amount + currentExperience);
+            resetChallenge();
+        }
 
     }
 
@@ -124,15 +118,6 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
 
 
     }, [isActive, time])
-
-
-
-
-
-
-
-
-
 
 
     return (

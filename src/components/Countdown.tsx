@@ -6,26 +6,15 @@ let countdownTimeout: NodeJS.Timeout;
 
 export function Countdown() {
 
-    const {startNewChallenge,time,hasFinished,resetCountdown,isActive,startCountdown}=useContext(ChallengeContext);
-
-
-    
-   
-    
-
+    const { time, hasFinished, resetCountdown, isActive, startCountdown } = useContext(ChallengeContext);
 
 
     const minutes = Math.floor(time / 60);
     const seconds = time % 60;
-    
+
 
     const [minuteLeft, minuteRight] = String(minutes).padStart(2, '0').split('');
     const [secondLeft, secondRight] = String(seconds).padStart(2, '0').split('');
-
-
-  
-  
-
 
 
     return (
@@ -50,11 +39,11 @@ export function Countdown() {
 
 
                 <button
-                disabled
+                    disabled
                     type="button"
                     className={style.countdownButton}
                 >
-                  Ciclo Encerrado
+                    Ciclo Encerrado
                 </button>
 
 

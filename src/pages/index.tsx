@@ -1,6 +1,6 @@
 
 //************************************************************ */
-// PAGE HOME
+// ARQUIVO DA PAGE HOME
 //************************************************************ */
 
 // PARA RODAR a aplicação
@@ -8,7 +8,7 @@
 
 
 //UTILIZADO PARA ACESSAR A TAG HEAD DO HTML E INSERIR, AQUI, O TITLE DA PAGE.
-import Head from 'next/head'; 
+import Head from 'next/head';
 
 //IMPORTAÇÃO DE COMPONENTES
 import { ChallengeBox } from '../components/ChallengeBox';
@@ -31,21 +31,15 @@ export default function Home() {
         </title>
       </Head>
 
-
-
       <ExperienceBar />
-
       <section>
-
-        <div>
+        <div className={styles.mobileMainTop}>
           <Profile />
           <CompletedChallenges />
-
           <Countdown />
         </div>
-
-        <div>
-          <ChallengeBox />
+        <div className={styles.mobileMainBottom}>
+          <ChallengeBox  />
         </div>
       </section>
     </div>

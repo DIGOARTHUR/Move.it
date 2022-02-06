@@ -1,18 +1,19 @@
+/*O nome das classes são nomeadas no estilo CamelCase*/
+
 .countdownContainer{
-    display: flex;
-    align-items: center;
-    font-family: Rajdhani;
-    font-weight: 600;
-    color:var(--title);
+    display: flex; /*Flexibiliza o posicionamento dos items*/
+    align-items: center; /*Centraliza os items filhos*/
+    font-family: Rajdhani; /*Fonte*/
+    font-weight: 600; /*Espessura da fonte*/
+    color:var(--title); /*cor fonte*/
 }
 
 .countdownContainer > div{
- flex:1;
-
- display:flex ;
+ flex:1; /*ocupa a largura máxima do container (Pai) */
+ display:flex ;/*possibilita a flexibilidade de posicionamento das tags filhas*/
  align-items: center;
- justify-content: space-evenly;
-
+ justify-content: space-evenly; /*os itens são distribuídos para que o espaçamento entre dois itens (e o espaço nas bordas) seja igual.*/
+ 
  background: var(--white);
  box-shadow: 0 0 20px rgba(0,0,0,0.085);
  border-radius: 5px;
@@ -20,12 +21,12 @@
  text-align: center;
 }
 
-.countdownContainer > div span:first-child{
+.countdownContainer > div span:first-child{ /*Acessa o primeiro item filho*/
 border-right: 1px solid #f0f1f3;
 
 }
 
-.countdownContainer > div span:last-child{
+.countdownContainer > div span:last-child{ /*Acessa o ultimo item filho*/
     border-left: 1px solid #f0f1f3;
     
     }
@@ -56,12 +57,14 @@ border-right: 1px solid #f0f1f3;
     color: var(--white);
 
     font-size: 1.25rem;
-    font-weight: 600;
+    font-weight: 600; /*espessura fonte*/
 
-    transition: 0.2s;
+    transition: 0.2s; /*tempo para que o efeito hover ocorra*/
 
 }
-.countdownButton:not(:disabled):hover{
+
+/*EFEITO PARA QUANDO PASSAR O MOUSE; CASO O ITEM (TAG) -NÃO- ESTEJA DESABILTIADO*/
+.countdownButton:not(:disabled):hover{ /*O [disable] é definido na tag Button no arquivo Countdown.jsx*/
 background: var(--blue-dark);
 
 }
@@ -71,15 +74,16 @@ background: var(--blue-dark);
    color:var(--title);
 }
 
-.countdownButtonActive:hover{
+
+.countdownButtonActive:not(:disabled):hover{
     background: var(--red);
     color:var(--white);
 }
-
-.countdownButton:disabled{
+/*EFEITO PARA QUANDO PASSAR O MOUSE; CASO O ITEM (TAG) ESTEJA DESABILTIADO*/
+.countdownButton:disabled{ /*Caso o item esteja desabilitado*/
     background:var(--white);
     color: var(--text);
-    cursor: unset;
+    cursor: not-allowed;
 }
 
 

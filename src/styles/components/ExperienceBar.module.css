@@ -1,6 +1,9 @@
+
+/*O nome das classes são nomeadas no estilo CamelCase*/
+
 .experienceBar{
-    display: flex; /*Possibilita a flexibilidade de posicionamento das tags filhas*/
-    align-items: center;
+    display: flex; /*possibilita a flexibilidade de posicionamento das tags filhas*/
+    align-items: center; /*os itens no containr (Pai) são alinhados*/
   
     }
     
@@ -11,7 +14,7 @@
     
     .experienceBar >div{
     
-        flex: 1;   /* largura maxima do container*/
+        flex: 1;   /* ocupa a largura maxima do container*/
         height: 4px; /*altura*/
         border-radius: 4px; /*arrendondamento das bordas*/
         background: var(--gray-line);

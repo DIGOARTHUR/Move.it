@@ -5,11 +5,11 @@ import styles from '../styles/components/ChallengeBox.module.css'
 
 export function ChallengeBox() {
 
- 
-    const {activeChallenge,resetChallenge,completedChallenge}=useContext(ChallengeContext);
 
-    
-    
+    const { activeChallenge, resetChallenge, completedChallenge } = useContext(ChallengeContext);
+
+
+
     return (
         <div className={styles.challengeBoxContainer}>
             {activeChallenge ? ( //DESAFIO ATIVO
@@ -18,28 +18,28 @@ export function ChallengeBox() {
                 <div className={styles.challengeActive}>
 
                     <header> Ganhe {activeChallenge.amount} xp</header>
-                <main>
-                    <img src={`icons/${activeChallenge.type}.png`} />
-                    <strong> Novo desafio</strong>
-                    <p>{activeChallenge.description}</p>
-                </main>
+                    <main>
+                        <img src={`icons/${activeChallenge.type}.png`} />
+                        <strong> Novo desafio</strong>
+                        <p>{activeChallenge.description}</p>
+                    </main>
 
-                <footer>
-                    <button
-                    type="button"
-                    className={styles.challengeFailedButton}
-                    onClick={resetChallenge}
-                    >
-                        Falhei
-                    </button>
+                    <footer>
+                        <button
+                            type="button"
+                            className={styles.challengeFailedButton}
+                            onClick={resetChallenge}
+                        >
+                            Falhei
+                        </button>
 
-                    <button
-                    type="button"
-                    className={styles.challengeSucceedeButton}
-                    onClick={completedChallenge}
-                    >Completei
-                    </button>
-                </footer>
+                        <button
+                            type="button"
+                            className={styles.challengeSucceedeButton}
+                            onClick={completedChallenge}
+                        >Completei
+                        </button>
+                    </footer>
                 </div>
 
 

@@ -1,3 +1,10 @@
+
+//************************************************************ */
+// ARQUIVO SIMILAR AO INDEX.JS NO ReactJS 
+//(AQUI É COLOCADO TUDO QUE É ESTÁTICO, TUDO QUE SE MANTERÁ EM TODAS AS TELAS) [É carregado uma única vez]
+//************************************************************ */
+
+//IMPORTANDO TAGS 
 import Document, { Html, Head, Main, NextScript } from 'next/document';
 
 // CARREGAMENTO ESTÁTICO DE RECURSOS
@@ -17,8 +24,8 @@ export default class MyDocument extends Document {
 
                 </Head>
                 <body>
-                    <Main />
-                    <NextScript />
+                    <Main />  {/* É responsável por mostrar a aplicação */}
+                    <NextScript /> {/* Scripts que o NextJS injeta na aplicaçãod e forma automatizada */}
                 </body>
             </Html>
 

@@ -1,6 +1,9 @@
+/*O nome das classes são nomeadas no estilo CamelCase*/
+
+
 .profileContainer{
-    display: flex;
-    align-items: center;
+    display: flex;/*possibilita a flexibilidade de posicionamento das tags filhas*/
+    align-items: center;/*os itens no containr (Pai) são alinhados*/
 }
 
 .profileContainer > img {
@@ -21,7 +24,7 @@
 
 .profileContainer div p{
     font-size: 1rem;
-   margin-top: 0.5rem;
+    margin-top: 0.5rem;
 
 }
 

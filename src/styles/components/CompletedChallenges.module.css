@@ -1,3 +1,5 @@
+/*O nome das classes são nomeadas no estilo CamelCase*/
+
 .completedChallengesContainer{
     display: flex;
     align-items: center;
