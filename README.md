@@ -36,13 +36,14 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 ## Mobile
 
 <div align="center"  >
-  <img  src="https://user-images.githubusercontent.com/59892368/152696659-71c2dabe-49cc-4631-b2db-c038529e56a2.jpeg" width="265" height="550">
-  <img  src="https://user-images.githubusercontent.com/59892368/152696658-d9d13163-50a9-4021-8f05-6b00aa03d36e.jpeg" width="265" height="550">
+   <a href="move-it-pomodoro.vercel.app"><img  src="https://user-images.githubusercontent.com/59892368/152696659-71c2dabe-49cc-4631-b2db-c038529e56a2.jpeg" width="265" height="550"><a/>
+   <a href="move-it-pomodoro.vercel.app"><img  src="https://user-images.githubusercontent.com/59892368/152696658-d9d13163-50a9-4021-8f05-6b00aa03d36e.jpeg" width="265" height="550"><a/>
 </div>      
 
 ## Desktop
 <div align="center" >
-  <img src="https://user-images.githubusercontent.com/59892368/152694269-f82d1d0b-c6aa-473a-81f0-8ff383074b6e.png" width="600" height="337">
+  
+  <a href="move-it-pomodoro.vercel.app"><img src="https://user-images.githubusercontent.com/59892368/152694269-f82d1d0b-c6aa-473a-81f0-8ff383074b6e.png" width="600" height="337"><a/>
 </div>
 
 
