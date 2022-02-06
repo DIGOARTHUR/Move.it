@@ -3,6 +3,32 @@
 <!-- BADGES https://www.youtube.com/watch?v=cRoBt6AZgjc
 https://dev.to/envoy_/150-badges-for-github-pnk
 -->
+
+<p>
+  ![GitHub last commit](https://img.shields.io/github/last-commit/digoarthur/Move.it)
+  ![GitHub](https://img.shields.io/github/license/digoarthur/Move.it)
+</p>  
+
+#### Stacks:
+<p align="left">
+
+  <img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663512-3f83da57-bdfe-4cef-bcc2-feb304a738ff.png">
+  <img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149677999-f5947f0b-e535-4ba2-911c-1c5926045c35.png">
+  
+  <img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663188-8298a9bf-f3ce-4881-944f-e94edf37beed.png">
+  <img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663192-19043371-127c-47f0-8553-0f407c51e2c5.png">
+  <img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663193-40e11362-c724-49cf-a0b5-a20f98c8e4ba.png">
+  <img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/110185477-3255b480-7df1-11eb-8399-07a57b05eefb.png">
+  <img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149662563-c86be27c-b905-4aaf-b726-fb1146465ea7.png">
+  <img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/152626659-7431e51e-e4ea-4ee5-baf9-c916ccd72ae9.png">
+
+  Pontos abordados:
+  <p>
+ ![Alt ou título da imagem](https://img.shields.io/badge/-ContextAPI-blue/?logo=appveyor&logoColor=violet&color=blue)
+</p>  
+ 
+ 
+
 # Move.it Pomodoro - NLW#04
 
 
@@ -33,18 +59,6 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
 > Utilizando a técnica [`Pomodoro`](https://pt.wikipedia.org/wiki/Técnica_pomodoro), esta aplicação possui um crônometro onde o objetivo é executar a tarefa do seu interesse no tempo que, por padrão, é de 25 minutos. A cada término é mostrado uma atividade de relaxamento e, se caso você complete a tarefa, é acrescido XP, caso contrário não se ganha nada e o cronômetro é resetado.
 
-#### Stacks:
-<p align="left">
-
-  <img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663512-3f83da57-bdfe-4cef-bcc2-feb304a738ff.png">
-  <img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149677999-f5947f0b-e535-4ba2-911c-1c5926045c35.png">
-  
-  <img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663188-8298a9bf-f3ce-4881-944f-e94edf37beed.png">
-  <img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663192-19043371-127c-47f0-8553-0f407c51e2c5.png">
-  <img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663193-40e11362-c724-49cf-a0b5-a20f98c8e4ba.png">
-  <img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/110185477-3255b480-7df1-11eb-8399-07a57b05eefb.png">
-  <img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149662563-c86be27c-b905-4aaf-b726-fb1146465ea7.png">
-  <img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/152626659-7431e51e-e4ea-4ee5-baf9-c916ccd72ae9.png">
   
 
 
