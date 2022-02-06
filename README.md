@@ -2,12 +2,19 @@
 
 <!-- BADGES https://www.youtube.com/watch?v=cRoBt6AZgjc
 https://dev.to/envoy_/150-badges-for-github-pnk
+
+BUILD BADGES
+https://shields.io
+ICONS
+https://simpleicons.org/?q=react
 -->
 
-<p>
+
+
+
   ![GitHub last commit](https://img.shields.io/github/last-commit/digoarthur/Move.it)
   ![GitHub](https://img.shields.io/github/license/digoarthur/Move.it)
-</p>  
+
 
 #### Stacks:
 <p align="left">
@@ -22,12 +29,14 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   <img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149662563-c86be27c-b905-4aaf-b726-fb1146465ea7.png">
   <img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/152626659-7431e51e-e4ea-4ee5-baf9-c916ccd72ae9.png">
 
-  Pontos abordados:
-  <p>
- ![Alt ou título da imagem](https://img.shields.io/badge/-ContextAPI-blue/?logo=appveyor&logoColor=violet&color=blue)
-</p>  
+#### Pontos abordados:
+  
+  ![Alt ou título da imagem](https://img.shields.io/badge/-Map-/?logo=JavaScript&logoColor=white&color=yellow)
+ ![Alt ou título da imagem](https://img.shields.io/badge/-ContextAPI-/?logo=CreateReactApp&logoColor=white&color=blue)
+ ![Alt ou título da imagem](https://img.shields.io/badge/-Estado-/?logo=CreateReactApp&logoColor=white&color=blue)
+   ![Alt ou título da imagem](https://img.shields.io/badge/-Componente-/?logo=CreateReactApp&logoColor=white&color=blue)
  
- 
+<hr>
 
 # Move.it Pomodoro - NLW#04
 
