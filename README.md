@@ -10,6 +10,25 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   <img  alt="skills"  width="500" height="236" src="https://user-images.githubusercontent.com/59892368/113923381-dbac1380-97be-11eb-98f7-e4d6a949e37d.PNG">
 </p> <!--- event card  -->
  
+<!--- sumary -->
+  <h1 align="rigth"> <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/107999728-e6b8a380-6fc6-11eb-82d1-aa090feabaf3.png"></img> Sumário</h1>
+
+
+* ### <a href="https://github.com/DIGOARTHUR/Move.it#--sobre-a-aplicação-">Sobre a aplicação</a>
+  * ### <a href="https://github.com/DIGOARTHUR/Move.it#stacks">Stacks</a>
+  
+ * ### <a href="https://github.com/DIGOARTHUR/Move.it#--interfaces-"> Interfaces</a>
+
+ * ### <a href="https://github.com/DIGOARTHUR/Move.it#-pontos-principais-">Pontos Principais</a>
+
+
+ * ### <a href="https://github.com/DIGOARTHUR/Move.it#-por-quê--">Por quê?</a>
+
+ *  ### <a href="https://github.com/DIGOARTHUR/Move.it#-por-quê--">Algumas observações</a>
+
+ *  ## <a href="https://github.com/DIGOARTHUR/Move.it#-rodando-a-aplicação">Rodando a Aplicação</a>
+ 
+ 
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
 > Utilizando a técnica [`Pomodoro`](https://pt.wikipedia.org/wiki/Técnica_pomodoro), esta aplicação possui um crônometro onde o objetivo é executar a tarefa do seu interesse no tempo que, por padrão, é de 25 minutos. A cada término é mostrado uma atividade de relaxamento e, se caso você complete a tarefa, é acrescido XP, caso contrário não se ganha nada e o cronômetro é resetado.
@@ -36,8 +55,9 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 ## Mobile
 
 <div align="center"  >
-   <a href="https://move-it-pomodoro.vercel.app"><img  src="https://user-images.githubusercontent.com/59892368/152696659-71c2dabe-49cc-4631-b2db-c038529e56a2.jpeg" width="265" height="550"><a/>
    <a href="https://move-it-pomodoro.vercel.app"><img  src="https://user-images.githubusercontent.com/59892368/152696658-d9d13163-50a9-4021-8f05-6b00aa03d36e.jpeg" width="265" height="550"><a/>
+   <a href="https://move-it-pomodoro.vercel.app"><img  src="https://user-images.githubusercontent.com/59892368/152696659-71c2dabe-49cc-4631-b2db-c038529e56a2.jpeg" width="265" height="550"><a/>
+  
 </div>      
 
 ## Desktop
@@ -50,7 +70,8 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos Principais: <!---write here: learned concepts ;    -->
-
+> Escrevo tudo que aborda React e o Front-end no meu [`Notion`](https://devdigoarthur.notion.site/ReactJS-93c2209743ad43dcb4e813a4dc93da05):
+  
 * `Array de Objeto JS` (uso do map)
 * `CSS` (FlexBox)
 * React
@@ -64,7 +85,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622627-c1eaa513-ca90-49e2-b5b8-c11d369becef.png"> Por quê?  <!---write here : motivation that led to created ; why did you do this program?   -->
-A cada NLW que a Rocketseat disponibiliza, busco sempre aprimorar o que vi nas anteriors e conhecer recursos novos. Estou em um momento de muita construção e esses projetos feitos em React vem me enriquecendo cada vez mais. Ainda quero desenvolver Aplicações mais complexas mas, antes, quero deixar sólida a base. 
+A cada NLW que a Rocketseat disponibiliza, busco sempre aprimorar o que vi nas anteriors e conhecer recursos novos. Estou em um momento de muita construção e esses projetos feitos em React vem me enriquecendo cada vez mais. Ainda quero desenvolver Aplicações mais complexas mas, antes, quero deixar sólida a base. Aqui aprendi conceitos e aplicação de NextJS, mais sobre TypeScript e sobre outros recursos base do React.
 
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622723-8e753e71-6bbf-46c3-b1b5-4fcc3d841a88.png"> Algumas observações
