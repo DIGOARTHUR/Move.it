@@ -33,31 +33,86 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/149667468-f228e4e8-c2f0-474d-858d-6b9216f49b2f.png">  Interfaces <!---write here : demonstration of the application layout.  -->
 
+## Mobile
+
+<div align="center"  >
+  <img  src="https://user-images.githubusercontent.com/59892368/152696659-71c2dabe-49cc-4631-b2db-c038529e56a2.jpeg" width="265" height="550">
+  <img  src="https://user-images.githubusercontent.com/59892368/152696658-d9d13163-50a9-4021-8f05-6b00aa03d36e.jpeg" width="265" height="550">
+</div>      
+
+## Desktop
+<div align="center" >
+  <img src="https://user-images.githubusercontent.com/59892368/152694269-f82d1d0b-c6aa-473a-81f0-8ff383074b6e.png" width="600" height="337">
+</div>
 
 
 
 
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos Principais: <!---write here: learned concepts ;    -->
 
-
+* `Array de Objeto JS` (uso do map)
+* `CSS` (FlexBox)
+* React
+  * [`Componente`](https://devdigoarthur.notion.site/Componentes-bc3ca1ebd97d4ccc8d11e6ab668eeb73) ( Divisão de elementos da aplicação)
+  * [`Estado`](https://devdigoarthur.notion.site/Estado-e7c7508cb6bd4d81984ba5e8e50eab67) (UseState() - Controle de mudança de dados)
+  * [`ContextAPI`](https://devdigoarthur.notion.site/Context-API-610980ad0db948709d364efc919a454e) (Distribuição de Estado, Função... entre todos os componentes da aplicação)
+  * [`TypeScript`](https://devdigoarthur.notion.site/TypeScript-3af8a5d6b2344e0da2fa9d868227a945) (Superset para o JS, utilizado para tipar o JS)
+  * [`NextJS`](https://devdigoarthur.notion.site/NextJS-442f25d9367c47c1b47b085805d954c2) (Framework para React)
+ 
   
   
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622627-c1eaa513-ca90-49e2-b5b8-c11d369becef.png"> Por quê?  <!---write here : motivation that led to created ; why did you do this program?   -->
-
+A cada NLW que a Rocketseat disponibiliza, busco sempre aprimorar o que vi nas anteriors e conhecer recursos novos. Estou em um momento de muita construção e esses projetos feitos em React vem me enriquecendo cada vez mais. Ainda quero desenvolver Aplicações mais complexas mas, antes, quero deixar sólida a base. 
 
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622723-8e753e71-6bbf-46c3-b1b5-4fcc3d841a88.png"> Algumas observações
 
-:white_square_button: FrontEnd
+<!--white_check_mark
+white_square_button
+-->
 
-:white_square_button: BackEnd
+:white_check_mark: FrontEnd
+
 
  
  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142216697-dd93272c-c614-4664-9d63-c4e4dfc3e0f3.gif"> Rodando a Aplicação
  
 
+1. Clonar repositório:
 
+```
+git clone https://github.com/DIGOARTHUR/Move.it.git
+```
+
+2. Instalar dependências
+
+```
+yarn install
+```
+
+3. Rodar aplicativo
+
+```
+yarn dev
+```
+
+4. Acesse http://localhost:3000/ e navegue pelo site
+
+:warning: 5. Trocar URL do repositorio remoto (caso necessário)
+
+  5.1 Ver qual o repositorio atual
+```
+git remote -v
+```
+  5.2 Mudar a URL do repositorio remoto
+```
+git remote set-url origin <LinkDoNovoRepositorio>
+```
+  5.3 Verifique se a mudança foi realizada
+```
+git remote -v
+```
 
 
 
