@@ -10,6 +10,25 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   <img  alt="skills"  width="500" height="236" src="https://user-images.githubusercontent.com/59892368/113923381-dbac1380-97be-11eb-98f7-e4d6a949e37d.PNG">
 </p> <!--- event card  -->
  
+<!--- sumary -->
+  <h1 align="rigth"> <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/107999728-e6b8a380-6fc6-11eb-82d1-aa090feabaf3.png"></img> Sumário</h1>
+
+
+* ### <a href="https://github.com/DIGOARTHUR/Move.it#--sobre-a-aplicação-">Sobre a aplicação</a>
+  * ### <a href="https://github.com/DIGOARTHUR/Move.it#stacks">Stacks</a>
+  
+ * ### <a href="https://github.com/DIGOARTHUR/Move.it#--interfaces-"> Interfaces</a>
+
+ * ### <a href="https://github.com/DIGOARTHUR/Move.it#-pontos-principais-">Pontos Principais</a>
+
+
+ * ### <a href="https://github.com/DIGOARTHUR/Move.it#-por-quê--">Por quê?</a>
+
+ *  ### <a href="https://github.com/DIGOARTHUR/Move.it#-por-quê--">Algumas observações</a>
+
+ *  ## <a href="https://github.com/DIGOARTHUR/Move.it#-rodando-a-aplicação">Rodando a Aplicação</a>
+ 
+ 
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
 > Utilizando a técnica [`Pomodoro`](https://pt.wikipedia.org/wiki/Técnica_pomodoro), esta aplicação possui um crônometro onde o objetivo é executar a tarefa do seu interesse no tempo que, por padrão, é de 25 minutos. A cada término é mostrado uma atividade de relaxamento e, se caso você complete a tarefa, é acrescido XP, caso contrário não se ganha nada e o cronômetro é resetado.
