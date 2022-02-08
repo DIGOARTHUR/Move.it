@@ -29,8 +29,7 @@ https://simpleicons.org/?q=react
    <a href="https://nextjs.org/"><img  alt="NextJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/152626659-7431e51e-e4ea-4ee5-baf9-c916ccd72ae9.png"><a/>
 </p>
   
-#### Pontos abordados:
-  
+ 
   <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-Map-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
  <a href="https://devdigoarthur.notion.site/Context-API-610980ad0db948709d364efc919a454e"> ![Alt ou título da imagem](https://img.shields.io/badge/-ContextAPI-/?logo=CreateReactApp&logoColor=white&color=blue)<a/>
 <a href="https://devdigoarthur.notion.site/Estado-e7c7508cb6bd4d81984ba5e8e50eab67">  ![Alt ou título da imagem](https://img.shields.io/badge/-Estado-/?logo=CreateReactApp&logoColor=white&color=blue)<a/>
@@ -59,7 +58,7 @@ https://simpleicons.org/?q=react
 
  * ### <a href="https://github.com/DIGOARTHUR/Move.it#-por-quê--">Por quê?</a>
 
- *  ### <a href="https://github.com/DIGOARTHUR/Move.it#-por-quê--">Algumas observações</a>
+ *  ### <a href="https://github.com/DIGOARTHUR/Move.it#-algumas-observações">Algumas observações</a>
 
  *  ## <a href="https://github.com/DIGOARTHUR/Move.it#-rodando-a-aplicação">Rodando a Aplicação</a>
  
@@ -92,7 +91,7 @@ https://simpleicons.org/?q=react
 
 
 
-## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos Principais: <!---write here: learned concepts ;    -->
+## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos Abordados: <!---write here: learned concepts; -->
 > Escrevo tudo que aborda React e o Front-end no meu [`Notion`](https://devdigoarthur.notion.site/ReactJS-93c2209743ad43dcb4e813a4dc93da05):
   
 * `Array de Objeto JS` (uso do map)
