@@ -53,7 +53,7 @@ https://simpleicons.org/?q=react
   
  * ### <a href="https://github.com/DIGOARTHUR/Move.it#--interfaces-"> Interfaces</a>
 
- * ### <a href="https://github.com/DIGOARTHUR/Move.it#-pontos-principais-">Pontos Principais</a>
+ * ### <a href="https://github.com/DIGOARTHUR/Move.it#-pontos-abordados-">Pontos Abordados </a>
 
 
  * ### <a href="https://github.com/DIGOARTHUR/Move.it#-por-quê--">Por quê?</a>
