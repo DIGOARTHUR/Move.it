@@ -11,6 +11,9 @@ https://simpleicons.org/?q=react
 
 
 
+<p align="center">
+  <img  alt="skills"  width="1400" height="200" src="https://user-images.githubusercontent.com/59892368/153728559-1787d516-66cf-418c-8b05-d9cc0df2a570.png">
+</p>  
 
   ![GitHub last commit](https://img.shields.io/github/last-commit/digoarthur/Move.it)
   ![GitHub](https://img.shields.io/github/license/digoarthur/Move.it)
@@ -35,8 +38,10 @@ https://simpleicons.org/?q=react
    <a href="https://devdigoarthur.notion.site/Componentes-bc3ca1ebd97d4ccc8d11e6ab668eeb73"> ![Alt ou título da imagem](https://img.shields.io/badge/-Components-/?logo=CreateReactApp&logoColor=white&color=blue)<a/>
  
 <hr>
-
-# Move.it Pomodoro - NLW#04
+    
+     
+     
+# Move.it Pomodoro 
 
 
 <p align="center">
