@@ -15,6 +15,7 @@ https://simpleicons.org/?q=react
   <img  alt="skills"  width="1400" height="180" src="https://user-images.githubusercontent.com/59892368/153728559-1787d516-66cf-418c-8b05-d9cc0df2a570.png">
 </p>  
 
+
   ![GitHub last commit](https://img.shields.io/github/last-commit/digoarthur/Move.it)
   ![GitHub](https://img.shields.io/github/license/digoarthur/Move.it)
 
@@ -39,33 +40,29 @@ https://simpleicons.org/?q=react
  
 <hr>
     
-     
-     
-# Move.it Pomodoro 
+ 
+  <h1 align="center">
+  <img alt="move.it" title="move.it" src="https://user-images.githubusercontent.com/59892368/153729777-467f5c7a-2e24-453b-b231-bc98869d82de.png" />
+</h1>
+
+
+<p align="center">
+  <a href="https://github.com/DIGOARTHUR/Move.it#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Move.it#--interfaces-"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Move.it#-pontos-abordados-">Pontos Abordados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Move.it#-por-quê--">Por quê?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Move.it#-por-quê--">Trilha de Aulas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Move.it#-por-quê--">Por quê?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>   
+
 
 
 <p align="center">
   <img  alt="skills"  width="500" height="236" src="https://user-images.githubusercontent.com/59892368/113923381-dbac1380-97be-11eb-98f7-e4d6a949e37d.PNG">
 </p> <!--- event card  -->
  
-<!--- sumary -->
-  <h1 align="rigth"> <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/107999728-e6b8a380-6fc6-11eb-82d1-aa090feabaf3.png"></img> Sumário</h1>
 
 
-* ### <a href="https://github.com/DIGOARTHUR/Move.it#--sobre-a-aplicação-">Sobre a aplicação</a>
-  * ### <a href="https://github.com/DIGOARTHUR/Move.it#stacks">| Stacks |</a>
-  
- * ### <a href="https://github.com/DIGOARTHUR/Move.it#--interfaces-"> Interfaces</a>
-
- * ### <a href="https://github.com/DIGOARTHUR/Move.it#-pontos-abordados-">Pontos Abordados </a>
-
-
- * ### <a href="https://github.com/DIGOARTHUR/Move.it#-por-quê--">Por quê?</a>
-
- *  ### <a href="https://github.com/DIGOARTHUR/Move.it#-algumas-observações">Algumas observações</a>
-
- *  ## <a href="https://github.com/DIGOARTHUR/Move.it#-rodando-a-aplicação">Rodando a Aplicação</a>
- 
  
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
@@ -110,17 +107,12 @@ https://simpleicons.org/?q=react
   
   
 
-# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622627-c1eaa513-ca90-49e2-b5b8-c11d369becef.png"> Por quê?  <!---write here : motivation that led to created ; why did you do this program?   -->
-A cada NLW que a Rocketseat disponibiliza, busco sempre aprimorar o que vi nas anteriors e conhecer recursos novos. Estou em um momento de muita construção e esses projetos feitos em React vem me enriquecendo cada vez mais. Ainda quero desenvolver Aplicações mais complexas mas, antes, quero deixar sólida a base. Aqui aprendi conceitos e aplicação de NextJS, mais sobre TypeScript e sobre outros recursos base do React.
 
 
-# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622723-8e753e71-6bbf-46c3-b1b5-4fcc3d841a88.png"> Algumas observações
-
-<!--white_check_mark
-white_square_button
+<!--
+# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622723-8e753e71-6bbf-46c3-b1b5-4fcc3d841a88.png"> Observações
 -->
 
-:white_check_mark: FrontEnd
 
 
  
@@ -163,7 +155,8 @@ git remote -v
 ```
 
 
-
+ # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622627-c1eaa513-ca90-49e2-b5b8-c11d369becef.png"> Por quê?  <!---write here : motivation that led to created ; why did you do this program?   -->
+A cada NLW que a Rocketseat disponibiliza, busco sempre aprimorar o que vi nas anteriors e conhecer recursos novos. Estou em um momento de muita construção e esses projetos feitos em React vem me enriquecendo cada vez mais. Ainda quero desenvolver Aplicações mais complexas mas, antes, quero deixar sólida a base. Aqui aprendi conceitos e aplicação de NextJS, mais sobre TypeScript e sobre outros recursos base do React.
 
 
 
