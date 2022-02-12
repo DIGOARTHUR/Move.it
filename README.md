@@ -85,7 +85,7 @@ https://simpleicons.org/?q=react
 ## Desktop
 <div align="center" >
   
-  <a href="https://move-it-pomodoro.vercel.app"><img src="https://user-images.githubusercontent.com/59892368/153730638-2fe0b41c-c78d-40bd-8d50-c855fdcc0393.png" width="1235" height="650"><a/>
+  <a href="https://move-it-pomodoro.vercel.app"><img src="https://user-images.githubusercontent.com/59892368/153730638-2fe0b41c-c78d-40bd-8d50-c855fdcc0393.png" width="1235" height="600"><a/>
 </div>
 
 
