@@ -85,7 +85,7 @@ https://simpleicons.org/?q=react
 ## Desktop
 <div align="center" >
   
-  <a href="https://move-it-pomodoro.vercel.app"><img src="https://user-images.githubusercontent.com/59892368/152694269-f82d1d0b-c6aa-473a-81f0-8ff383074b6e.png" width="600" height="337"><a/>
+  <a href="https://move-it-pomodoro.vercel.app"><img src="https://user-images.githubusercontent.com/59892368/153730638-2fe0b41c-c78d-40bd-8d50-c855fdcc0393.png" width="1235" height="700"><a/>
 </div>
 
 
@@ -155,7 +155,7 @@ git remote -v
 
 
  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622627-c1eaa513-ca90-49e2-b5b8-c11d369becef.png"> Por quê?  <!---write here : motivation that led to created ; why did you do this program?   -->
-A cada NLW que a Rocketseat disponibiliza, busco sempre aprimorar o que vi nas anteriors e conhecer recursos novos. Estou em um momento de muita construção e esses projetos feitos em React vem me enriquecendo cada vez mais. Ainda quero desenvolver Aplicações mais complexas mas, antes, quero deixar sólida a base. Aqui aprendi conceitos e aplicação de NextJS, mais sobre TypeScript e sobre outros recursos base do React.
+A cada NLW que a Rocketseat organiza, busco sempre aprimorar o que vi nas anteriors e conhecer recursos novos. Estou em um momento de muita construção e esses projetos feitos em React vem me enriquecendo cada vez mais. Ainda quero desenvolver Aplicações mais complexas mas, antes, quero deixar sólida a base. Aqui aprendi conceitos e aplicação de NextJS, mais sobre TypeScript e sobre outros recursos base do React.
 
 
 
