@@ -53,7 +53,7 @@ https://simpleicons.org/?q=react
 
 
 * ### <a href="https://github.com/DIGOARTHUR/Move.it#--sobre-a-aplicação-">Sobre a aplicação</a>
-  * ### <a href="https://github.com/DIGOARTHUR/Move.it#stacks">Stacks</a>
+  * ### <a href="https://github.com/DIGOARTHUR/Move.it#stacks">| Stacks |</a>
   
  * ### <a href="https://github.com/DIGOARTHUR/Move.it#--interfaces-"> Interfaces</a>
 
@@ -77,7 +77,7 @@ https://simpleicons.org/?q=react
 </p>
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/149667468-f228e4e8-c2f0-474d-858d-6b9216f49b2f.png">  Interfaces <!---write here : demonstration of the application layout.  -->
-
+<a href="https://www.figma.com/file/UnPgRXKJulEvLAq3qkfRQX/Move.it-1.0" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
 ## Mobile
 
 <div align="center"  >
