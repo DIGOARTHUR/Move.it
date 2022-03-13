@@ -158,7 +158,7 @@ git remote -v
 A cada NLW que a [@Rocketseat](https://github.com/Rocketseat) organiza, busco sempre aprimorar o que vi nas anteriors e conhecer recursos novos. Estou em um momento de muita construção e esses projetos feitos em React vem me enriquecendo cada vez mais. Ainda quero desenvolver Aplicações mais complexas mas, antes, quero deixar sólida a base. Aqui aprendi conceitos e aplicação de NextJS, mais sobre TypeScript e sobre outros recursos base do React.
 
  ---
-  Quero agradecer a Rocketseat por estes eventos, você não tem ideia do quanto contribuem para a comunidade. ♥
+  Quero agradecer a Rocketseat por estes eventos, vocês não tem ideia do quanto contribuem para a comunidade. ♥
 
 
  
