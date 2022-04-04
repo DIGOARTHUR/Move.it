@@ -92,7 +92,7 @@ https://simpleicons.org/?q=react
 
 
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos Abordados: <!---write here: learned concepts; -->
-> Escrevo tudo que aborda React e o Front-end no meu [`Notion`](https://devdigoarthur.notion.site/ReactJS-93c2209743ad43dcb4e813a4dc93da05):
+
   
 * `Array de Objeto JS` (uso do map)
 * `CSS` (FlexBox)
