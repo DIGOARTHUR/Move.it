@@ -9,22 +9,23 @@ ICONS
 https://simpleicons.org/?q=react
 -->
 
-
+ <!------------------------------------BANNER PROJECT-->
 
 <p align="center">
   <img  alt="skills"  width="950" height="180" src="https://user-images.githubusercontent.com/59892368/153728559-1787d516-66cf-418c-8b05-d9cc0df2a570.png">
 </p>  
 
-
+ <!------------------------------------SHIELDS PROJECT-->
   ![GitHub last commit](https://img.shields.io/github/last-commit/digoarthur/Move.it)
   ![GitHub](https://img.shields.io/github/license/digoarthur/Move.it)
+  
+  
 
-
+ <!------------------------------------STACKS-->
 #### Stacks:
 <p align="left">
-  <a href="https://code.visualstudio.com/"><img  alt="Vscode"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663512-3f83da57-bdfe-4cef-bcc2-feb304a738ff.png"><a/>
-  <a href="https://git-scm.com/"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149677999-f5947f0b-e535-4ba2-911c-1c5926045c35.png"><a/>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img  alt="HTML5"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663188-8298a9bf-f3ce-4881-944f-e94edf37beed.png"><a/>
+
+ <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img  alt="HTML5"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663188-8298a9bf-f3ce-4881-944f-e94edf37beed.png"><a/>
    <a href="https://github.com/braziljs/eloquente-javascript"><img  alt="Javascript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663192-19043371-127c-47f0-8553-0f407c51e2c5.png"><a/>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img  alt="CSS3"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663193-40e11362-c724-49cf-a0b5-a20f98c8e4ba.png"><a/>
    <a href="https://pt-br.reactjs.org/"><img  alt="ReactJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/110185477-3255b480-7df1-11eb-8399-07a57b05eefb.png"><a/>
@@ -32,20 +33,28 @@ https://simpleicons.org/?q=react
    <a href="https://nextjs.org/"><img  alt="NextJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/152626659-7431e51e-e4ea-4ee5-baf9-c916ccd72ae9.png"><a/>
 </p>
   
- 
+   <!------------------------------------SHIELDS STACKS-->
   <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-Map-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
  <a href="https://devdigoarthur.notion.site/Context-API-610980ad0db948709d364efc919a454e"> ![Alt ou título da imagem](https://img.shields.io/badge/-ContextAPI-/?logo=CreateReactApp&logoColor=white&color=blue)<a/>
 <a href="https://devdigoarthur.notion.site/Estado-e7c7508cb6bd4d81984ba5e8e50eab67">  ![Alt ou título da imagem](https://img.shields.io/badge/-State-/?logo=CreateReactApp&logoColor=white&color=blue)<a/>
    <a href="https://devdigoarthur.notion.site/Componentes-bc3ca1ebd97d4ccc8d11e6ab668eeb73"> ![Alt ou título da imagem](https://img.shields.io/badge/-Components-/?logo=CreateReactApp&logoColor=white&color=blue)<a/>
  
+ <!------------------------------------TOOLS-->
+ #### Tools:
+ <a href="https://code.visualstudio.com/"><img  alt="Vscode"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663512-3f83da57-bdfe-4cef-bcc2-feb304a738ff.png"><a/>
+ <a href="https://git-scm.com/"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149677999-f5947f0b-e535-4ba2-911c-1c5926045c35.png"><a/>        
+     
 <hr>
-    
- 
+  
+
+     
+   <!------------------------------------PROJECT ICON-->
   <h1 align="center">
   <img alt="move.it" title="move.it" src="https://user-images.githubusercontent.com/59892368/153729777-467f5c7a-2e24-453b-b231-bc98869d82de.png" />
 </h1>
 
 
+ <!------------------------------------SUMMARY-->
 <p align="center">
   <a href="https://github.com/DIGOARTHUR/Move.it#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/Move.it#--interfaces-"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -54,7 +63,7 @@ https://simpleicons.org/?q=react
   <a href="https://github.com/DIGOARTHUR/Move.it#-por-quê--">Por quê?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>   
 
-
+ <!------------------------------------EVENT TICKET-->
 
 <p align="center">
   <img  alt="skills"  width="500" height="236" src="https://user-images.githubusercontent.com/59892368/113923381-dbac1380-97be-11eb-98f7-e4d6a949e37d.PNG">
@@ -62,14 +71,16 @@ https://simpleicons.org/?q=react
  
 
 
- 
+
+
+   <!------------------------------------DESCRIPTION-->
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
 > Utilizando a técnica [`Pomodoro`](https://pt.wikipedia.org/wiki/Técnica_pomodoro), esta aplicação possui um crônometro onde o objetivo é executar a tarefa do seu interesse no tempo que, por padrão, é de 25 minutos. A cada término é mostrado uma atividade de relaxamento e, se caso você complete a tarefa, é acrescido XP, caso contrário não se ganha nada e o cronômetro é resetado.
 
   
 
-
+   <!------------------------------------LAYOUT -->
 </p>
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/149667468-f228e4e8-c2f0-474d-858d-6b9216f49b2f.png">  Interfaces <!---write here : demonstration of the application layout.  -->
