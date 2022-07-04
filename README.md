@@ -100,7 +100,7 @@ https://simpleicons.org/?q=react
 </div>
 
 
-
+ <!------------------------------------PRODUCTION SKILLS-->
 
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos Abordados: <!---write here: learned concepts; -->
 
@@ -117,14 +117,14 @@ https://simpleicons.org/?q=react
   
   
 
-
+ <!------------------------------------OBSERVATION-->
 
 <!--
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622723-8e753e71-6bbf-46c3-b1b5-4fcc3d841a88.png"> Observações
 -->
 
 
-
+<!------------------------------------RUN APP-->
  
  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142216697-dd93272c-c614-4664-9d63-c4e4dfc3e0f3.gif"> Rodando a Aplicação
  
@@ -163,7 +163,7 @@ git remote set-url origin <LinkDoNovoRepositorio>
 ```
 git remote -v
 ```
-
+<!------------------------------------WHY THE PROJECT-->
 
  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622627-c1eaa513-ca90-49e2-b5b8-c11d369becef.png"> Por quê?  <!---write here : motivation that led to created ; why did you do this program?   -->
 A cada NLW que a [@Rocketseat](https://github.com/Rocketseat) organiza, busco sempre aprimorar o que vi nas anteriors e conhecer recursos novos. Estou em um momento de muita construção e esses projetos feitos em React vem me enriquecendo cada vez mais. Ainda quero desenvolver Aplicações mais complexas mas, antes, quero deixar sólida a base. Aqui aprendi conceitos e aplicação de NextJS, mais sobre TypeScript e sobre outros recursos base do React.
