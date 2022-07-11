@@ -34,10 +34,10 @@ https://simpleicons.org/?q=react
 </p>
   
    <!------------------------------------SHIELDS STACKS-->
-  <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-Map-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
- <a href="https://devdigoarthur.notion.site/Context-API-610980ad0db948709d364efc919a454e"> ![Alt ou título da imagem](https://img.shields.io/badge/-ContextAPI-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>
-<a href="https://devdigoarthur.notion.site/Estado-e7c7508cb6bd4d81984ba5e8e50eab67">  ![Alt ou título da imagem](https://img.shields.io/badge/-State-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>
-   <a href="https://devdigoarthur.notion.site/Componentes-bc3ca1ebd97d4ccc8d11e6ab668eeb73"> ![Alt ou título da imagem](https://img.shields.io/badge/-Components-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>
+  <a href="https://www.w3schools.com/jsref/jsref_map.asp"> ![Alt ou título da imagem](https://img.shields.io/badge/-Map-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
+ <a href="https://reactjs.org/docs/context.html"> ![Alt ou título da imagem](https://img.shields.io/badge/-ContextAPI-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>
+<a href="https://reactjs.org/docs/state-and-lifecycle.html">  ![Alt ou título da imagem](https://img.shields.io/badge/-State-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>
+   <a href="https://reactjs.org/docs/components-and-props.html"> ![Alt ou título da imagem](https://img.shields.io/badge/-Components-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>
  
  <!------------------------------------TOOLS-->
  #### Tools:
@@ -108,11 +108,11 @@ https://simpleicons.org/?q=react
 * `Array de Objeto JS` (uso do map)
 * `CSS` (FlexBox)
 * React
-  * [`Componente`](https://devdigoarthur.notion.site/Componentes-bc3ca1ebd97d4ccc8d11e6ab668eeb73) ( Divisão de elementos da aplicação)
-  * [`Estado`](https://devdigoarthur.notion.site/Estado-e7c7508cb6bd4d81984ba5e8e50eab67) (UseState() - Controle de mudança de dados)
-  * [`ContextAPI`](https://devdigoarthur.notion.site/Context-API-610980ad0db948709d364efc919a454e) (Distribuição de Estado, Função... entre todos os componentes da aplicação)
-  * [`TypeScript`](https://devdigoarthur.notion.site/TypeScript-3af8a5d6b2344e0da2fa9d868227a945) (Superset para o JS, utilizado para tipar o JS)
-  * [`NextJS`](https://devdigoarthur.notion.site/NextJS-442f25d9367c47c1b47b085805d954c2) (Framework para React)
+  * [`Componente`](https://reactjs.org/docs/components-and-props.html) (Uso de componentes)
+  * [`Estado`](https://reactjs.org/docs/state-and-lifecycle.html) (Uso de hooks para controle de estado e ciclo de vida da aplicação)
+  * [`ContextAPI`](https://reactjs.org/docs/context.html) (Distribuição de Estado, Função... entre todos os componentes da aplicação)
+  * [`TypeScript`](https://www.typescriptlang.org/docs/handbook/react.html) (Superset para o JS, utilizado para tipar o JS)
+  * [`NextJS`](https://nextjs.org) (Framework para React)
  
   
   
