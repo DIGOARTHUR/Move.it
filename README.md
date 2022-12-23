@@ -76,7 +76,7 @@ https://simpleicons.org/?q=react
    <!------------------------------------DESCRIPTION-->
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
-> Utilizando a técnica [`Pomodoro`](https://pt.wikipedia.org/wiki/Técnica_pomodoro), esta aplicação possui um crônometro onde o objetivo é executar a tarefa do seu interesse no tempo que, por padrão, é de 25 minutos. A cada término é mostrado uma atividade de relaxamento e, se caso você complete a tarefa, é acrescido XP, caso contrário não se ganha nada e o cronômetro é resetado.
+> Utilizando a técnica [`Pomodoro`](https://pt.wikipedia.org/wiki/Técnica_pomodoro), esta aplicação possui um crônometro onde o objetivo é executar a tarefa do seu interesse no tempo que, por padrão, é de 25 minutos. A cada término é mostrado uma atividade de relaxamento e, se caso você complete a tarefa, é acrescido XP, caso contrário não se ganha nada e o cronômetro é resetado. Este projeto aborda o uso da estrutura NextJS, conceito de Context API, Componentização, o uso do TypeScript, conceitos de JS.
 
   
 
