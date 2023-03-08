@@ -83,6 +83,18 @@ https://simpleicons.org/?q=react
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/149667468-f228e4e8-c2f0-474d-858d-6b9216f49b2f.png">  Interfaces <!---write here : demonstration of the application layout.  -->
 <a href="https://www.figma.com/file/UnPgRXKJulEvLAq3qkfRQX/Move.it-1.0" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
+
+
+## DESKTOP
+  
+|                             Tela Principal                             |
+| :-------------------------------------------------------------------: |
+|   ![image](https://user-images.githubusercontent.com/59892368/153730638-2fe0b41c-c78d-40bd-8d50-c855fdcc0393.png) |
+
+  
+
+
+
 ## Mobile
 
 <div align="center"  >
@@ -91,26 +103,39 @@ https://simpleicons.org/?q=react
   
 </div>      
 
-## Desktop
-<div align="center" >
+ <!------------------------------------LIST: STACKS , LIBS & TOOLS-->
+
+## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/197614534-e12fb94a-b5cf-44ff-8d57-debad7299b0b.png"> Stacks <!---write here: learned concepts; -->
+
+### Lógica 
+*  <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-JavaScript-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
+   * [`Map`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (Iteração com retorno de conteúdo trabalhado, com outro formato, contexto.)
+   
+### Estilização 
+* <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> ![Alt ou título da imagem](https://img.shields.io/badge/-CSS3-/?logo=CSS3&logoColor=white&color=blue)<a/> 
+  * [`Global Style`]()
+     * [`Variáves`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties) (Variáveis aplicados no CSS, como de cores por exemplo)
+     * [`Reset CSS`](https://www.alura.com.br/artigos/o-que-e-reset-css) (Resete de config. de medidas da página)
+  * [`Flexbox`](https://origamid.com/projetos/flexbox-guia-completo/) (Modelo Layout)
+
+   
+### Framework / Lib
   
-  <a href="https://move-it-pomodoro.vercel.app"><img src="https://user-images.githubusercontent.com/59892368/153730638-2fe0b41c-c78d-40bd-8d50-c855fdcc0393.png" width="1235" height="600"><a/>
-</div>
-
-
- <!------------------------------------PRODUCTION SKILLS-->
-
-## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos Abordados: <!---write here: learned concepts; -->
-
-  
-* `Array de Objeto JS` (uso do map)
-* `CSS` (FlexBox)
-* React
+* <a href="https://reactjs.org"> ![Alt ou título da imagem](https://img.shields.io/badge/-ReactJS-/?logo=React&logoColor=white&color=blue)<a/> 
   * [`Componente`](https://reactjs.org/docs/components-and-props.html) (Uso de componentes)
   * [`Estado`](https://reactjs.org/docs/state-and-lifecycle.html) (Uso de hooks para controle de estado e ciclo de vida da aplicação)
-  * [`ContextAPI`](https://reactjs.org/docs/context.html) (Distribuição de Estado, Função... entre todos os componentes da aplicação)
-  * [`TypeScript`](https://www.typescriptlang.org/docs/handbook/react.html) (Superset para o JS, utilizado para tipar o JS)
-  * [`NextJS`](https://nextjs.org) (Framework para React)
+  * [`Props`](https://reactjs.org/docs/state-and-lifecycle.html) (Recurso utilizado para passar atributos de um componente pai para outro componente filho)
+### Gerenciador / Pacotes
+ <a href="https://yarnpkg.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Yarn-/?logo=Yarn&logoColor=white&color=blue)<a/> 
+
+
+ ### Versionameto
+ <a href="https://git-scm.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Git-/?logo=Git&logoColor=white&color=red)<a/> 
+ ### IDE
+ <a href="https://code.visualstudio.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-VisualStudioCode-/?logo=VisualStudioCode&logoColor=white&color=informational)<a/> 
+
+
+
  
   
   
