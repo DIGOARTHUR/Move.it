@@ -130,6 +130,7 @@ https://simpleicons.org/?q=react
   * [`Componente`](https://reactjs.org/docs/components-and-props.html) (Uso de componentes)
   * [`Estado`](https://reactjs.org/docs/state-and-lifecycle.html) (Uso de hooks para controle de estado e ciclo de vida da aplicação)
   * [`Props`](https://reactjs.org/docs/state-and-lifecycle.html) (Recurso utilizado para passar atributos de um componente pai para outro componente filho)
+  * [`Context API`](https://reactjs.org/docs/context.html) (Usado para compartilhar dados de Estado, Funções etc... entre componentes diferentes. Faz com que a visão seja global.)
 ### Gerenciador / Pacotes
  <a href="https://yarnpkg.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Yarn-/?logo=Yarn&logoColor=white&color=blue)<a/> 
 
