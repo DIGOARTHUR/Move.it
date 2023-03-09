@@ -11,9 +11,10 @@ https://simpleicons.org/?q=react
 
  <!------------------------------------BANNER PROJECT-->
 
-<p align="center">
-  <img  alt="skills"  width="950" height="180" src="https://user-images.githubusercontent.com/59892368/153728559-1787d516-66cf-418c-8b05-d9cc0df2a570.png">
-</p>  
+![image](https://user-images.githubusercontent.com/59892368/153728559-1787d516-66cf-418c-8b05-d9cc0df2a570.png)
+
+
+ 
 
  <!------------------------------------SHIELDS PROJECT-->
   ![GitHub last commit](https://img.shields.io/github/last-commit/digoarthur/Move.it)
